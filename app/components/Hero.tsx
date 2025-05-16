@@ -41,7 +41,7 @@ const Hero = () => {
                     filter: { duration: 0.6 },
                     opacity: { duration: 0.6 },
                 }}
-                className="absolute top-20 left-10 w-12 h-12 bg-gradient-to-r from-teal-400 to-yellow-200 backdrop-blur rounded-md flex items-center justify-center text-black "
+                className="absolute top-60 left-60 w-12 h-12 bg-gradient-to-r from-teal-400 to-yellow-200 backdrop-blur rounded-md flex items-center justify-center text-black "
             >
                 <Plus className="w-6 h-6" />
             </motion.div>
@@ -61,7 +61,7 @@ const Hero = () => {
                     filter: { duration: 0.6 },
                     opacity: { duration: 0.6 },
                 }}
-                className="absolute bottom-32 left-12 w-12 h-12 bg-gradient-to-r from-teal-400 to-yellow-200 backdrop-blur rounded-md flex items-center justify-center text-black"
+                className="absolute bottom-32 left-80 w-12 h-12 bg-gradient-to-r from-teal-400 to-yellow-200 backdrop-blur rounded-md flex items-center justify-center text-black"
             >
                 <Minus className="w-6 h-6" />
             </motion.div>
@@ -101,7 +101,7 @@ const Hero = () => {
                     filter: { duration: 0.6 },
                     opacity: { duration: 0.6 },
                 }}
-                className="absolute bottom-28 right-14 w-12 h-12 bg-gradient-to-r from-teal-400 to-yellow-200 backdrop-blur rounded-md flex items-center justify-center text-black"
+                className="absolute bottom-28 right-80 w-12 h-12 bg-gradient-to-r from-teal-400 to-yellow-200 backdrop-blur rounded-md flex items-center justify-center text-black"
             >
                 <X className="w-6 h-6" />
             </motion.div>
@@ -174,7 +174,7 @@ const Hero = () => {
                         ease: "easeOut",
                         delay: 0.3
                     }}
-                    className='font-sans text-3xl font-normal tracking-tighter mt-10 max-w-4xl'>
+                    className='font-sans text-2xl font-normal  tracking-tighter mt-10 max-w-3xl'>
                     Matiks is a community for mathletes, turning math into an accessible, exciting sport for everyone 🚀
                 </motion.div>
 
