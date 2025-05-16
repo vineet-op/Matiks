@@ -7,6 +7,7 @@ import Navbar from './Navbar'
 import { Divide, Equal, Minus, Plus, X } from 'lucide-react';
 
 
+
 const Hero = () => {
 
 
@@ -125,10 +126,6 @@ const Hero = () => {
             >
                 <Divide className="w-6 h-6" />
             </motion.div>
-
-
-
-
 
 
             <div className='w-full h-72  pt-96 flex flex-col justify-center items-center text-center'>
