@@ -1,7 +1,7 @@
 "use client"
 
 import { Button } from '@/components/ui/button'
-import { Download, Trophy, Users, Zap } from 'lucide-react'
+import { Download } from 'lucide-react'
 import { motion } from 'motion/react'
 import Image from 'next/image'
 import React from 'react'

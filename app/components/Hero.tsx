@@ -10,8 +10,6 @@ import { Divide, Equal, Minus, Plus, X } from 'lucide-react';
 
 const Hero = () => {
 
-
-
     return (
         <div className='w-screen relative h-screen bg-gradient-to-r from-bg-black/85 bg-black/95 text-white'>
             {/* --- Animated Blurred Gradient Background Blobs --- */}
